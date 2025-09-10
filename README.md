@@ -14,13 +14,13 @@ This repository contains the code, stimuli, and analysis scripts for a study inv
   - Power simulations in Python for sample size adequacy.
 
 ## Repository Structure
-├── stimuli/ # Word lists and color mappings
-├── psychopy_tasks/ # PsychoPy experiment files
-├── jspsych_tasks/ # jsPsych experiment code (HTML/JS)
-├── data/ # Raw and cleaned data (if shareable)
-├── analysis/ # Python and R analysis scripts
-├── figures/ # Plots and visualizations
-└── README.md # This file
+├── stimuli/
+├── psychopy_tasks/ 
+├── jspsych_tasks/ 
+├── data/ 
+├── analysis/ 
+├── figures/ 
+└── README.md 
 
 
 ## Getting Started
