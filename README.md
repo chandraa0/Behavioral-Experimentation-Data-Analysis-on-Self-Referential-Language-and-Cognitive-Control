@@ -1,5 +1,4 @@
 # Behavioral-Experimentation-Data-Analysis-on-Self-Referential-Language-and-Cognitive-Control
-# Behavioral Experimentation & Data Analysis on Self-Referential Language and Cognitive Control
 
 This repository contains the code, stimuli, and analysis scripts for a study investigating how **self-referential information (e.g., “my green”) influences cognitive control** in conflicting situations. We used a **modified Color Stroop Task** with transliterated Malayalam words to explore the interaction between self-reference, congruency, and reaction times.
 
